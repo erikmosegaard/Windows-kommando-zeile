@@ -32,6 +32,7 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 
 **robocopy** -> Kopieren und Synchronisieren von Verzeichnissen; Bricht bei Fehler nicht ab
 
+
 ---
 Erik
 #### del/erase
