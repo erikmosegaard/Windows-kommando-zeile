@@ -1,8 +1,10 @@
 # Windows-kommando-zeile
 Gruppe: Halid, Michel, Erik, Yannis, Supatra
 ---
+cacls
 cacls ändert die Rechte oder zeigt diese an.
 Werden die Rechte geändert dann werden sie normalerweise auch ersetzt!
+
 cd / chdir
 Mit cd(ir) (change directory) ändert man das aktuelle Verzeichnis. Wird nach cd nichts angefügt wird das aktuelle Verzeichnis angezeigt.
 ## comp oder fc
