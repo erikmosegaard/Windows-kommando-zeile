@@ -11,8 +11,11 @@ Supatra
 6
 ---
 Erik
-7
-8
+7 del / erase
+Löscht Verzeichnis(se) inkl. untergeordnete Dateien.
+8 deltree
+Unter Windows XP lautet der Befehl rmdir. Deltree kennt es nicht mehr.
+Anmerkung: rmdir/rd versteht keine Wildcards ('*' oder '?') im Verzeichnisnamen.
 ---
 Michel
 dir
