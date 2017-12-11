@@ -3,7 +3,7 @@ Gruppe: Halid, Michel, Erik, Yannis, Supatra
 
 
 ---
-##dir
+## dir
 Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
 
 * /b - Gibt nur Dateinamen aus.
@@ -19,7 +19,7 @@ Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
 
 ---
 
-##edit
+## edit
 Der Befehl "edit" öffnet einen Editor zur Bearbeitung von Batch- oder Textdateien.
 Dieser Befehl ist seit Windows NT nur noch in 32 Bit Systemen enthalten.
 
