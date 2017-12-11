@@ -1,7 +1,6 @@
 # Windows-kommando-zeile
 Gruppe: Halid, Michel, Erik, Yannis, Supatra
 
-
 ---
 ## dir
 Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
