@@ -1,19 +1,17 @@
-Halid
-1
-2
----
-Yannis
-3
-4
----
-Supatra
-5
-6
----
 Erik
 7 del / erase
 Löscht Verzeichnis(se) inkl. untergeordnete Dateien.
+
+/p - sollen mehrere Dateien gelöscht werden, muss jede einzelne Löschung
+bestätigt werden.
+
+/f - auch schreibgeschützte Dateien werden gelöscht.
+
+/s - löscht auch Dateien, die sich in den Unterverzeichnissen befinden.
+
+/q - Unterbindet Bestätigung.
 8 deltree
+````deltree c:\fake010```
 Unter Windows XP lautet der Befehl rmdir. Deltree kennt es nicht mehr.
 Anmerkung: rmdir/rd versteht keine Wildcards ('*' oder '?') im Verzeichnisnamen.
 ---
