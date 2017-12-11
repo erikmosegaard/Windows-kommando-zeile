@@ -3,8 +3,12 @@ Halid
 2
 ---
 Yannis
-3
-4
+3 cacls ändert die Rechte oder zeigt diese an.
+Werden die Rechte geändert dann werden sie normalerweise auch ersetzt!
+4 cd / chdir
+Mit cd(ir) (change directory) ändert man das aktuelle Verzeichnis. Wird nach cd nichts angefügt wird das aktuelle Verzeichnis angezeigt.
+
+
 ---
 Supatra
 5
