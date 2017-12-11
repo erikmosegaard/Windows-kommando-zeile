@@ -38,7 +38,7 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 
 ---
 
-#### del / erase
+#### del/erase
 del und erase ist das selbe.
 Löscht eine Datei, die sich im aktuellen Verzeichnis befindet. Als Parameter muss mindestens der Dateiname angegeben werden. Weitere Parameter sind optional:
 /p - jede datei muss einzelne Löschung bestätigt werden.
