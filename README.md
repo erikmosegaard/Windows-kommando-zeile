@@ -2,27 +2,16 @@
 Gruppe: Halid, Michel, Erik, Yannis, Supatra
 
 ---
-## dir
-Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
-
-* /b - Gibt nur Dateinamen aus.
-* /c - Dateigrösse wird angezeigt.
-* /p - Unterbricht Ausgabe bei jedem Seitenumbruch, bis eine Taste gedrückt wird.
-* /on - Gibt das Verzeichnis alphabetisch sortiert aus.
-* /w - Gibt Ergebnis aus als mehrspaltige, nach Reihe sortierte Liste.
-* /ah - Zeigt versteckte Dateien an.
-* /a Zeigt versteckte- und System-Dateien an.
-* /s Zeigt auch den Inhalt der Unterverzeichnisse an.
-
-* dir [dateiname] - Zur Suche von Dateien im aktuellen Verzeichnis.
+Assoc
+attrib (Yannis)
 
 ---
 
-## edit
-Der Befehl "edit" öffnet einen Editor zur Bearbeitung von Batch- oder Textdateien.
-Dieser Befehl ist seit Windows NT nur noch in 32 Bit Systemen enthalten.
+cachels(Halid)
+cd/chdir
 
 ---
+Supi
 
 ## comp oder fc
 
@@ -39,7 +28,7 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 **robocopy** -> Kopieren und Synchronisieren von Verzeichnissen; Bricht bei Fehler nicht ab
 
 ---
-
+Erik
 #### del/erase
 del und erase ist das selbe.
 Löscht eine Datei, die sich im aktuellen Verzeichnis befindet. Als Parameter muss mindestens der Dateiname angegeben werden. Weitere Parameter sind optional:
@@ -59,3 +48,23 @@ XP rmdir/rd. Deltree kennt xp nicht mehr. Anmerkung: rmdir/rd keine Wildcards ('
 ```rmdir c:\Modul302```
 Unter Windows XP rmdir für Deltree
 rmdir/rd versteht keine Wildcards ('*' oder '?') im Verzeichnisnamen.
+
+---
+Michel
+## dir
+Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
+
+* /b - Gibt nur Dateinamen aus.
+* /c - Dateigrösse wird angezeigt.
+* /p - Unterbricht Ausgabe bei jedem Seitenumbruch, bis eine Taste gedrückt wird.
+* /on - Gibt das Verzeichnis alphabetisch sortiert aus.
+* /w - Gibt Ergebnis aus als mehrspaltige, nach Reihe sortierte Liste.
+* /ah - Zeigt versteckte Dateien an.
+* /a Zeigt versteckte- und System-Dateien an.
+* /s Zeigt auch den Inhalt der Unterverzeichnisse an.
+
+* dir [dateiname] - Zur Suche von Dateien im aktuellen Verzeichnis.
+
+## edit
+Der Befehl "edit" öffnet einen Editor zur Bearbeitung von Batch- oder Textdateien.
+Dieser Befehl ist seit Windows NT nur noch in 32 Bit Systemen enthalten.
