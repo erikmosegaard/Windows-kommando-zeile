@@ -24,8 +24,7 @@ Der Befehl "edit" öffnet einen Editor zur Bearbeitung von Batch- oder Textdatei
 Dieser Befehl ist seit Windows NT nur noch in 32 Bit Systemen enthalten.
 
 ---
-=======
----
+
 ## comp oder fc
 
 Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
