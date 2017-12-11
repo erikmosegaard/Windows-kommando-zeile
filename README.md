@@ -13,4 +13,4 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 
 **xcopy** -> erweiterte version von **copy**
 
-**robocopy** -> Synchronisieren von Verzeichnissen
+**robocopy** -> zum Kopieren und Synchronisieren von Verzeichnissen
