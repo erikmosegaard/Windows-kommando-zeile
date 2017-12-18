@@ -10,13 +10,12 @@ Bearbeitung der Dateierweiterungen bzw. anzeigen lassen
 Ändert das Dateiattribut. Schreibgeschützt (+r/-r), versteckt (+h/-h), systmemdatei (+s/-s), archiv (+a/-a)
 
 ---
-Yannis
 
-cacls
+## cacls
 cacls ändert die Rechte oder zeigt diese an.
 Werden die Rechte geändert dann werden sie normalerweise auch ersetzt!
 
-cd / chdir
+## cd / chdir
 Mit cd(ir) (change directory) ändert man das aktuelle Verzeichnis. Wird nach cd nichts angefügt wird das aktuelle Verzeichnis angezeigt.
 
 ---
@@ -63,7 +62,7 @@ Unter Windows XP rmdir für Deltree
 rmdir/rd versteht keine Wildcards ('*' oder '?') im Verzeichnisnamen.
 
 ---
-Michel
+
 ## dir
 Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
 
