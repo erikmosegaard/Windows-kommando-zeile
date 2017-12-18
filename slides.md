@@ -51,6 +51,7 @@ Beim beispiel wird zulöschendedatei ohne bestätigung gelöscht mit den dateien
 
 ---
 
+
 #### deltree
 
 Um ganze Verzeichnisse zulöschen sollte man
