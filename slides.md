@@ -2,7 +2,7 @@
 Gruppe: Halid, Michel, Erik, Yannis, Supatra
 
 ---
-Halid
+
 ## Assoc
 Bearbeitung der Dateierweiterungen bzw. anzeigen lassen
 
@@ -20,7 +20,6 @@ cd / chdir
 Mit cd(ir) (change directory) ändert man das aktuelle Verzeichnis. Wird nach cd nichts angefügt wird das aktuelle Verzeichnis angezeigt.
 
 ---
-Supi
 
 ## comp oder fc
 
@@ -38,7 +37,6 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 
 
 ---
-Erik
 
 #### del/erase
 del und erase ist das selbe.
@@ -48,6 +46,8 @@ Löscht eine Datei, die sich im aktuellen Verzeichnis befindet. Als Parameter mu
 /s - löscht Dateien, in Unterverzeichnissen.
 /q - Unterbindet Bestätigung.
 Beim beispiel wird zulöschendedatei ohne bestätigung gelöscht mit den dateien in den unterverzeichnisse. ```del C:\zulöschendedatei.bat/q /s```
+
+---
 
 #### deltree
 
@@ -77,6 +77,8 @@ Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
 * /s Zeigt auch den Inhalt der Unterverzeichnisse an.
 
 * dir [dateiname] - Zur Suche von Dateien im aktuellen Verzeichnis.
+
+---
 
 ## edit
 Der Befehl "edit" öffnet einen Editor zur Bearbeitung von Batch- oder Textdateien.
