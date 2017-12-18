@@ -6,14 +6,11 @@ Halid
 ## Assoc
 Bearbeitung der Dateierweiterungen bzw. anzeigen lassen
 
----
 ## Attrib
 Ändert das Dateiattribut. Schreibgeschützt (+r/-r), versteckt (+h/-h), systmemdatei (+s/-s), archiv (+a/-a)
 
 ---
-
-cachels (Yannis)
-cd/chdir
+Yannis
 
 cacls
 cacls ändert die Rechte oder zeigt diese an.
@@ -42,6 +39,7 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 
 ---
 Erik
+
 #### del/erase
 del und erase ist das selbe.
 Löscht eine Datei, die sich im aktuellen Verzeichnis befindet. Als Parameter muss mindestens der Dateiname angegeben werden. Weitere Parameter sind optional:
