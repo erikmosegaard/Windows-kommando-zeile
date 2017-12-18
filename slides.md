@@ -37,6 +37,7 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 
 ---
 
+
 #### del/erase
 del und erase ist das selbe.
 Löscht eine Datei, die sich im aktuellen Verzeichnis befindet. Als Parameter muss mindestens der Dateiname angegeben werden. Weitere Parameter sind optional:
@@ -65,7 +66,9 @@ Unter Windows XP rmdir für Deltree
 
 rmdir/rd versteht keine Wildcards ('*' oder '?') im Verzeichnisnamen.
 
+
 ---
+
 
 ## dir
 Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
