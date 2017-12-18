@@ -48,6 +48,7 @@ Löscht eine Datei, die sich im aktuellen Verzeichnis befindet. Als Parameter mu
 
 Beim beispiel wird zulöschendedatei ohne bestätigung gelöscht mit den dateien in den unterverzeichnisse. ```del C:\zulöschendedatei.bat/q /s```
 
+
 ---
 
 #### deltree
