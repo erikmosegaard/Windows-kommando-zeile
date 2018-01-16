@@ -7,14 +7,14 @@ Gruppe: Halid, Michel, Erik, Yannis, Supatra
 Bearbeitung der Dateierweiterungen bzw. anzeigen lassen
 
 ## Attrib
-Ändert das Dateiattribut. Schreibgeschützt (+r/-r), versteckt (+h/-h), systemdatei (+s/-s), archiv (+a/-a)
+Ändert das Dateigdjhgfjhgfjhgfattribut. Schreibgeschützt (+r/-r), versteckt (+h/-h), systemdatei (+s/-s), archiv (+a/-a)
 
 ---
 
 ## cacls
 cacls ändert die Rechte oder zeigt diese an.
 Werden die Rechte geändert dann werden sie normalerweise auch ersetzt!
-
+hgfjgfhgf
 ## cd / chdir
 Mit cd(ir) (change directory) ändert man das aktuelle Verzeichnis. Wird nach cd nichts angefügt wird das aktuelle Verzeichnis angezeigt.
 
