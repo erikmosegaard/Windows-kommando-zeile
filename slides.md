@@ -7,7 +7,7 @@ Gruppe: Halid, Michel, Erik, Yannis, Supatra
 Bearbeitung der Dateierweiterungen bzw. anzeigen lassen
 
 ## Attribjkhgjhg
-Ändert das Dateigdjhgfjhgfjhgfattribut. Schreibgeschützt (+r/-r), versteckt (+h/-h), systemdatei (+s/-s), archiv (+a/-a)
+Ändert das Dateigdjhgfjhgfjhgfattribut. Schreibgeschützt (+r/-r), versteckt (+h/-h), systemdatei (+s/-s), archiv (+a/-a)gjhgfjhgfjf
 
 ---
 
