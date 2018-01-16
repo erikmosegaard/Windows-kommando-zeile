@@ -6,7 +6,7 @@ Gruppe: Halid, Michel, Erik, Yannis, Supatra
 ## Assoc
 Bearbeitung der Dateierweiterungen bzw. anzeigen lassen
 
-## Attrib
+## Attribjkhgjhg
 Ändert das Dateigdjhgfjhgfjhgfattribut. Schreibgeschützt (+r/-r), versteckt (+h/-h), systemdatei (+s/-s), archiv (+a/-a)
 
 ---
