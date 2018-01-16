@@ -8,14 +8,14 @@ Der Befehl "dir" zeigt alle Verzeichnisse an. Dabei gibt es zahlreiche Optionen:
 
 * /b - Gibt nur Dateinamen aus.
 * /c - Dateigrösse wird angezeigt.
-* /p - Unterbricht Ausgabe bei jedem Seitenumbruch, bis eine Taste gedrückt wird.
+hgfjhgfjhgfj
 * /on - Gibt das Verzeichnis alphabetisch sortiert aus.
 * /w - Gibt Ergebnis aus als mehrspaltige, nach Reihe sortierte Liste.
 * /ah - Zeigt versteckte Dateien an.
 * /a Zeigt versteckte- und System-Dateien an.
 * /s Zeigt auch den Inhalt der Unterverzeichnisse an.
 
-* dir [dateiname] - Zur Suche von Dateien im aktuellen Verzeichnis.
+* fjhgfjmhgfjmhbvmnbvmnb
 
 ---
 
@@ -39,4 +39,3 @@ Vergleicht den Inhalt zweier Dateien und stellt die Unterschiede dar
 **xcopy** -> erweiterte version von **copy**
 
 **robocopy** -> Kopieren und Synchronisieren von Verzeichnissen; Bricht bei Fehler nicht ab
-
